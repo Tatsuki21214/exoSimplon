@@ -1,1 +1,2 @@
 # exoSimplon
+## Voila les execices
